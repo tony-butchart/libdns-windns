@@ -1,4 +1,4 @@
-module github.com/libdns/template
+module github.com/tony-butchart/libdns-windns
 
 go 1.18
 
